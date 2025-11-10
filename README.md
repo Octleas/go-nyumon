@@ -8,7 +8,7 @@ Go 入門編の解答サンプルリポジトリ
 - Visual Studio Code
 - Git
 
-上記のうち、Visual Studio Code と Git についてのインストール方法は、[Railway 準備編](https://www.notion.so/techbowl/Railway-ceba695d5014460e9733c2a46318cdec) をご確認いただき、挑戦の準備をしてください。
+上記のうち、Visual Studio Code と Git についてのインストール方法は、[Railway 準備編](https://techbowl.notion.site/Railway-ceba695d5014460e9733c2a46318cdec) をご確認いただき、挑戦の準備をしてください。
 ※ GitHub Codespaces についての資料はスキップしてください。
 
 その他リポジトリの更新の仕方や、トラブルシューティングについても上記の Railway 準備編にございます。 何かあった際は、まずそちらを確認しましょう。

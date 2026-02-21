@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	x, y := 1, 2
@@ -12,4 +14,8 @@ func main() {
 	fmt.Println("x: ", x, "y: ", y) // 期待される出力: 「x: 2, y: 1」
 }
 
-func Swap() {}
+func Swap(a *int, b *int){
+	tmp := *a
+	*a = *b
+	*b = tmp
+}
